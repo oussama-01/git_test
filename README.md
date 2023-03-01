@@ -1,6 +1,4 @@
 # git_test
 
 
-Hello there, how are you ?
-
-Hello Mars ! 
+I am a readme file in GitHub! 
